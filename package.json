@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node main.js"
+    "test": "nodemon main2.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^3.1.5",
     "yargs": "^16.1.0"
   },
   "devDependencies": {
